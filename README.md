@@ -7,7 +7,7 @@ Unfortunately, printable SMB payload is not easily readable because of the lossy
 This script *beautifies* the output and creates more condensed output more suitable for both manual and automatic triage.
 
 Raw logs:
-![Raw](https://i.imgur.com/a/BoyfWdQ.png)
+![Raw](https://i.imgur.com/1cfzspi.png)
 
 Beautified logs:
-![Beautified](https://i.imgur.com/a/xoYOZma.png)
+![Beautified](https://i.imgur.com/BhDvuqJ.png)
